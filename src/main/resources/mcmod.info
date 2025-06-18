@@ -1,0 +1,16 @@
+[
+{
+  "modid": "geminimobs",
+  "name": "Gemini Mobs",
+  "description": "A revolutionary mod that brings mobs to life with AI.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Garden"],
+  "credits": "Created with the help of Gemini AI.",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
